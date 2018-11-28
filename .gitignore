@@ -1,2 +1,2 @@
-Node_modules
-s3.env.js
+./Node_modules
+./app/config/s3.env.js
